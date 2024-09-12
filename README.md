@@ -1,10 +1,11 @@
-# Todo Daily....
+# Todo Daily
 
 ## About the Todo Daily
 
 The Todo Daily is a simple and intuitive application that allows users to keep track of their tasks and manage their daily activities efficiently. It features a user-friendly interface where tasks can be added, edited, and deleted with ease. The app is designed to help users stay organized and improve their productivity. Additionally, the app is fully responsive, ensuring a seamless experience across various devices, including desktops, tablets, and mobile phones.
 
 ## Features
+
 - **Add Tasks**: Quickly add new tasks with a title and description.
 - **Edit Tasks**: Modify existing tasks to keep them up to date.
 - **Delete Tasks**: Remove tasks that are no longer needed.
@@ -20,6 +21,7 @@ The Todo Daily is a simple and intuitive application that allows users to keep t
 This application utilizes both frontend and backend technologies to deliver a full-featured task management solution:
 
 ### Frontend
+
 - **React**: Used for building the user interface.
 - **Chakra UI**: For styling components and ensuring a responsive design.
 - **Axios**: For making HTTP requests to the backend.
@@ -32,6 +34,7 @@ This application utilizes both frontend and backend technologies to deliver a fu
 - **react-router-dom**: A collection of navigational components that compose declaratively with your application.
 
 ### Backend
+
 - **Node.js**: Handles server-side operations.
 - **Express**: Manages routing and middleware.
 - **MongoDB**: A NoSQL database used for storing tasks.
@@ -46,22 +49,30 @@ This application utilizes both frontend and backend technologies to deliver a fu
 - **morgan**: HTTP request logger middleware for Node.js, helpful for logging requests made to the server.
 
 ## Snapshots
+
 Below are some snapshots of the Todo App showcasing its interface and functionality:
 
 1. **Home Screen**: Displays a list of tasks with options to add, edit, or delete them.
    ![Home Screen](./public/Home.png)
 
 2. **Signup**: User registration form for creating a new account.
-   ![Signup](./public//Signup.png)
+   ![Signup](./public/Signup.png)
 
 3. **Login**: User login form for accessing the app.
-   ![Login](./public//Login.png)
+   ![Login](./public/Login.png)
 
 4. **Add Task**: A form for creating a new task with fields for title and description.
-   ![Add Task](./public//Addtodo.png)
+   ![Add Task](./public/Addtodo.png)
 
 5. **Edit Task**: Allows users to modify details of an existing task.
-   ![Edit Task](./public//EditTodo.png)
+   ![Edit Task](./public/EditTodo.png)
 
 6. **Task Management**: Interface showing completed and pending tasks with filtering options.
    ![Task Management](./public/all%20todos.png)
+
+## Links
+
+- [Deployed Project](https://todomadeeasy.netlify.app)
+- [Backend Repository](https://github.com/Swethas2005/Todo-Backend)
+
+Feel free to provide feedback!
